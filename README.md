@@ -9,3 +9,20 @@ Our game revolves around fighting the corona epidemic with the corona vaccine. P
 # Example:
 
 
+![image](https://github.com/shalevofir21/super-mario-game-/assets/50710665/fb848928-49a3-42b6-8eab-3b58e597816b)
+
+![image](https://github.com/shalevofir21/super-mario-game-/assets/50710665/e4811189-3b05-44a9-8f94-68f56d3b90ce)
+
+![image](https://github.com/shalevofir21/super-mario-game-/assets/50710665/eaae609d-ce07-44b5-8918-644087837974)
+
+# Installing
+*Download the files
+
+*run the program in "main.py" file.
+
+# Authors
+
+Shalev and Ron 
+
+*Project through nitzanim
+
